@@ -1,7 +1,8 @@
 ---
 applications:
 - path: .
-  name: sentiment-analyzer #change to be unique in IBM Cloud
+  name: f33-nlu-app
   memory: 256M
   instances: 1
   random-route: true
+
