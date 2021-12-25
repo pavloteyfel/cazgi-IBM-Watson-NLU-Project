@@ -1,7 +1,7 @@
 ---
 applications:
 - path: .
-  name: f33-nlu-app
+  name: f33-nlu-app-2
   memory: 256M
   instances: 1
   random-route: true
