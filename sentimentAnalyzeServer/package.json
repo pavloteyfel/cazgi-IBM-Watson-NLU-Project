@@ -16,7 +16,7 @@
     "ibm-watson": "^6.2.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.15"
   },
   "engines": {
     "node": "15.14.0",
